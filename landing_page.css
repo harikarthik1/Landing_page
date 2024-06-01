@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&family=Varela+Round&display=swap');
+
+.home-section{
+    background-image: url("home1.png");
+    background-size:cover;
+    position: relative;
+    z-index: 0;
+    text-align: center;
+    color:white;
+    padding: 48px;
+}
+.welcome-heading{
+    font-family:"Kalam"
+}
+.features-section{
+    border:solid;
+    border-radius: 15px;
+    margin:48px;
+    padding:24px;
+}
+.courses-section{
+    border:solid;
+    border-radius: 15px;
+    margin:48px;
+    padding:24px;
+}
+.courses-option{
+    padding: 15px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.course-details{
+    font-size: 25px;
+    margin-left: 20px;
+    font-weight: 600;
+    font-family: "Varela Round";
+}
+ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    margin-top: 16px;
+}
+.results{
+    border-radius: 15px;
+    padding:8px;
+    margin-top:4px;
+}
+
+.result-number{
+    color:#2c54b8;
+    font-size:25px;
+}
+.demo-section{
+    background-image:radial-gradient(blue,#7593e6);
+    border-radius: 20px;
+    margin-top:16px;
+    padding:48px;
+}
+.copyright{
+    margin-top:25px;
+    border-radius:6px;
+}
+.copyright-description{
+    color:white;
+}
+
